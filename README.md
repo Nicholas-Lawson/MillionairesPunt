@@ -1,2 +1,0 @@
-# MillionairesPunt
-Unity Project Game
